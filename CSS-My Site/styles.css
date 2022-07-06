@@ -1,0 +1,158 @@
+.top_container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 250px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', Raleway;
+}
+
+section {
+  background-color: #F5F5F5;
+}
+
+/*#F2F7E4*/
+.name {
+  margin: 0 auto;
+  font-family: 'Sacramento', arial;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #11999E;
+}
+
+.head {
+  font-family: 'Raleway';
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.pro {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.top_cloud {
+  position: absolute;
+  top: 125px;
+  right: 293px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  bottom: 280px;
+  left: 250px;
+}
+
+.profilepic {
+  display: inline-block;
+  width: 150px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 75px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.chillyimg {
+  float: right;
+  margin-left: 30px;
+  width: 28%;
+}
+
+.ideaimg {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.profile {
+  padding-top: 50px;
+}
+
+.contact-me {
+  padding-bottom: 100px;
+}
+
+.intropara {
+  width: 30%;
+  margin: auto;
+  margin-bottom: 14px;
+}
+
+hr {
+  width: 3%;
+  border-style: dotted;
+  border-width: 5px;
+  border-color: lightgrey;
+  border-bottom: none;
+  margin: 90px auto;
+}
+
+.bottom-container {
+  position: relative;
+  height: 150px;
+  background-color: #66bfbf;
+}
+
+.footer-link {
+  position: absolute;
+  top: 50px;
+  text-decoration: none;
+}
+
+.l1 {
+  left: 556px;
+}
+
+.l3 {
+  right: 510px;
+}
+
+.copyright {
+  position: absolute;
+  bottom: 10px;
+  right: 579px;
+  color: #fff;
+  font-size: 12px;
+}
